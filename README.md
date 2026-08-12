@@ -1,4 +1,4 @@
-# Elevator System 🛗
+# Elevator System
 
 A multi-elevator simulator built with **C++20 + CMake**.
 
@@ -221,4 +221,4 @@ ctest --test-dir build --output-on-failure
 
 That's pretty much it.
 
-Have fun breaking the elevators. 🛗
+Have fun breaking the elevators LoL.
